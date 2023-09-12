@@ -1,3 +1,3 @@
-for(int i = 0; i<10; i++){
-  println("I ");
+for(int i = 1; i <10; i++){
+println(i);
 }
